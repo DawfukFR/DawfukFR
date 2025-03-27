@@ -7,7 +7,7 @@
 ###
 
 <h1 align="center">Hi 👋, I'm DawfukFR</h1>
-<h3 align="center">I'm a French student. Coding for fun 18.y.o</h3>
+<h3 align="center">I'm a French student. Coding for fun 19.y.o</h3>
 
 ###
 
